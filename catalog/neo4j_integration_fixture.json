@@ -1,0 +1,9 @@
+[
+  {
+    "medicine_id": "TEST-MED-001", "canonical_name": "Test Product Alpha", "strength_value": 123,
+    "strength_unit": "mg", "dosage_form": "tablet", "catalog_status": "active", "source_version": "test-1",
+    "source": {"source_id":"TEST-SOURCE-001", "name":"Synthetic Neo4j integration source", "dataset_version":"test-1", "license":"Test data only"},
+    "ingredients": [{"ingredient_id":"TEST-ING-001", "name":"Test Ingredient Alpha"}],
+    "aliases": [{"text":"Test Alpha", "alias_type":"test", "verified":true, "source_id":"TEST-SOURCE-001"}]
+  }
+]

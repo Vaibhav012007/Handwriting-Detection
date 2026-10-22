@@ -1,0 +1,15 @@
+[
+  {
+    "medicine_id": "SYN-ACETA-500-TAB", "canonical_name": "Aceta 500 Tablet", "brand_name": "Aceta",
+    "strength_value": 500, "strength_unit": "mg", "dosage_form": "tablet", "catalog_status": "active",
+    "source_version": "synthetic-1", "source": {"source_id": "SYNTHETIC-TEST", "name": "Synthetic test fixture", "dataset_version": "1", "license": "Not clinical data"},
+    "ingredients": [{"ingredient_id":"SYN-PARACETAMOL", "name":"Paracetamol"}],
+    "aliases": [{"text":"Aceta", "alias_type":"brand", "verified":true, "source_id":"SYNTHETIC-TEST"}]
+  },
+  {
+    "medicine_id": "SYN-ACETA-650-TAB", "canonical_name": "Aceta 650 Tablet", "brand_name": "Aceta",
+    "strength_value": 650, "strength_unit": "mg", "dosage_form": "tablet", "catalog_status": "active",
+    "source_version": "synthetic-1", "source": {"source_id": "SYNTHETIC-TEST", "name": "Synthetic test fixture", "dataset_version": "1", "license": "Not clinical data"},
+    "ingredients": [{"ingredient_id":"SYN-PARACETAMOL", "name":"Paracetamol"}], "aliases": []
+  }
+]

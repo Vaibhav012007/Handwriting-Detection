@@ -1,0 +1,11 @@
+{
+  "files_scanned": 3,
+  "structured_datasets": 3,
+  "prescription_images": 4680,
+  "medicine_packaging_images": 0,
+  "rows": 4680,
+  "unique_brands": 78,
+  "unique_generic_labels": 15,
+  "conflicts": 0,
+  "verification": "source_unverified"
+}

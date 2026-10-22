@@ -1,0 +1,38 @@
+{
+  "model": "microsoft/trocr-small-handwritten (fine-tuned)",
+  "device": "GPU:NVIDIA GeForce RTX 4060 Laptop GPU",
+  "dataset": {
+    "train": 3120,
+    "val": 780,
+    "test": 780,
+    "n_brand_classes": 78,
+    "n_generic_classes": 15
+  },
+  "validation": {
+    "cer": 0.0722672064777328,
+    "brand_acc": 0.8987179487179487,
+    "generic_acc": 0.9051282051282051
+  },
+  "test": {
+    "cer": 0.08340080971659919,
+    "brand_acc": 0.8782051282051282,
+    "generic_acc": 0.8935897435897436
+  },
+  "confidence_threshold": 0.7000000000000002,
+  "ablation": {
+    "raw_trocr": {
+      "brand_acc": 0.8782051282051282,
+      "generic_acc": 0.8935897435897436,
+      "n": 780
+    },
+    "trocr_with_matching": {
+      "accept_threshold": 0.7000000000000002,
+      "accepted_n": 777,
+      "uncertain_n": 3,
+      "acceptance_rate": 0.9961538461538462,
+      "brand_acc_among_accepted": 0.9073359073359073,
+      "generic_acc_among_accepted": 0.9330759330759331,
+      "brand_acc_among_uncertain": 0.0
+    }
+  }
+}

@@ -1,0 +1,1952 @@
+[
+  {
+    "medicine_id": "DATASET-BRAND-2A0B6287A0E6",
+    "canonical_name": "Ace",
+    "brand_name": "Ace",
+    "generic_name": "Paracetamol",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-54238E9415DF",
+        "name": "Paracetamol"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-ACCF3F6CCE89",
+    "canonical_name": "Aceta",
+    "brand_name": "Aceta",
+    "generic_name": "Paracetamol",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-54238E9415DF",
+        "name": "Paracetamol"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-EDC2B27B2CCF",
+    "canonical_name": "Alatrol",
+    "brand_name": "Alatrol",
+    "generic_name": "Cetirizine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-BF717C7A4DE0",
+        "name": "Cetirizine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-126B675B253A",
+    "canonical_name": "Amodis",
+    "brand_name": "Amodis",
+    "generic_name": "Metronidazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-524A0B304071",
+        "name": "Metronidazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-62FFC56DD712",
+    "canonical_name": "Atrizin",
+    "brand_name": "Atrizin",
+    "generic_name": "Cetirizine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-BF717C7A4DE0",
+        "name": "Cetirizine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-2BA8E5F018CF",
+    "canonical_name": "Axodin",
+    "brand_name": "Axodin",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-9C0ADA37BF74",
+    "canonical_name": "Az",
+    "brand_name": "Az",
+    "generic_name": "Azithromycin Dihydrate",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-433F9145820F",
+        "name": "Azithromycin Dihydrate"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-44B6AAC16329",
+    "canonical_name": "Azithrocin",
+    "brand_name": "Azithrocin",
+    "generic_name": "Azithromycin Dihydrate",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-433F9145820F",
+        "name": "Azithromycin Dihydrate"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-3996B51910D1",
+    "canonical_name": "Azyth",
+    "brand_name": "Azyth",
+    "generic_name": "Azithromycin Dihydrate",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-433F9145820F",
+        "name": "Azithromycin Dihydrate"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-6C6C63C03953",
+    "canonical_name": "Bacaid",
+    "brand_name": "Bacaid",
+    "generic_name": "Baclofen",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-979673BBDD2E",
+        "name": "Baclofen"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-7F94207320B5",
+    "canonical_name": "Backtone",
+    "brand_name": "Backtone",
+    "generic_name": "Baclofen",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-979673BBDD2E",
+        "name": "Baclofen"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-979673BBDD2E",
+    "canonical_name": "Baclofen",
+    "brand_name": "Baclofen",
+    "generic_name": "Baclofen",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-979673BBDD2E",
+        "name": "Baclofen"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-6CFF61912D0E",
+    "canonical_name": "Baclon",
+    "brand_name": "Baclon",
+    "generic_name": "Baclofen",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-979673BBDD2E",
+        "name": "Baclofen"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-229CEF30BC7A",
+    "canonical_name": "Bacmax",
+    "brand_name": "Bacmax",
+    "generic_name": "Baclofen",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-979673BBDD2E",
+        "name": "Baclofen"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-971C0BE684B0",
+    "canonical_name": "Beklo",
+    "brand_name": "Beklo",
+    "generic_name": "Baclofen",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-979673BBDD2E",
+        "name": "Baclofen"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-77BD151133F9",
+    "canonical_name": "Bicozin",
+    "brand_name": "Bicozin",
+    "generic_name": "Vitamin B Complex + Zinc",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D9538B881758",
+        "name": "Vitamin B Complex + Zinc"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-A142F829C747",
+    "canonical_name": "Canazole",
+    "brand_name": "Canazole",
+    "generic_name": "Fluconazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-88B1B528944B",
+        "name": "Fluconazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-D420ADCDEDC4",
+    "canonical_name": "Candinil",
+    "brand_name": "Candinil",
+    "generic_name": "Fluconazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-88B1B528944B",
+        "name": "Fluconazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-824EEBCEA638",
+    "canonical_name": "Cetisoft",
+    "brand_name": "Cetisoft",
+    "generic_name": "Cetirizine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-BF717C7A4DE0",
+        "name": "Cetirizine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-7E397E2E4356",
+    "canonical_name": "Conaz",
+    "brand_name": "Conaz",
+    "generic_name": "Fluconazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-88B1B528944B",
+        "name": "Fluconazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-2C9E2DDD44AD",
+    "canonical_name": "Dancel",
+    "brand_name": "Dancel",
+    "generic_name": "Ketoconazole (Shampoo)",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-623A6DFC9FA6",
+        "name": "Ketoconazole (Shampoo)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-F2091F6296EC",
+    "canonical_name": "Denixil",
+    "brand_name": "Denixil",
+    "generic_name": "Clonazepam",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-12A4EA2B5E10",
+        "name": "Clonazepam"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-93AF935DA929",
+    "canonical_name": "Diflu",
+    "brand_name": "Diflu",
+    "generic_name": "Fluconazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-88B1B528944B",
+        "name": "Fluconazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-687AF97B2346",
+    "canonical_name": "Dinafex",
+    "brand_name": "Dinafex",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-15536322467C",
+    "canonical_name": "Disopan",
+    "brand_name": "Disopan",
+    "generic_name": "Clonazepam",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-12A4EA2B5E10",
+        "name": "Clonazepam"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-97F4BF8CD2F6",
+    "canonical_name": "Esonix",
+    "brand_name": "Esonix",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-3DE528816A46",
+    "canonical_name": "Esoral",
+    "brand_name": "Esoral",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-728C6307E744",
+    "canonical_name": "Etizin",
+    "brand_name": "Etizin",
+    "generic_name": "Cetirizine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-BF717C7A4DE0",
+        "name": "Cetirizine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-815BD4BCBDE7",
+    "canonical_name": "Exium",
+    "brand_name": "Exium",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-926276DAF7B4",
+    "canonical_name": "Fenadin",
+    "brand_name": "Fenadin",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-EF585E24DDC7",
+    "canonical_name": "Fexo",
+    "brand_name": "Fexo",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-F507A848A752",
+    "canonical_name": "Fexofast",
+    "brand_name": "Fexofast",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-3C4FC20DA98D",
+    "canonical_name": "Filmet",
+    "brand_name": "Filmet",
+    "generic_name": "Metronidazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-524A0B304071",
+        "name": "Metronidazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-254976D3BCA6",
+    "canonical_name": "Fixal",
+    "brand_name": "Fixal",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-BB3A1D61D68A",
+    "canonical_name": "Flamyd",
+    "brand_name": "Flamyd",
+    "generic_name": "Metronidazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-524A0B304071",
+        "name": "Metronidazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-B15442FBF7DC",
+    "canonical_name": "Flexibac",
+    "brand_name": "Flexibac",
+    "generic_name": "Baclofen",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-979673BBDD2E",
+        "name": "Baclofen"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-DC006168DE9D",
+    "canonical_name": "Flexilax",
+    "brand_name": "Flexilax",
+    "generic_name": "Baclofen",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-979673BBDD2E",
+        "name": "Baclofen"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-5DE04C140022",
+    "canonical_name": "Flugal",
+    "brand_name": "Flugal",
+    "generic_name": "Fluconazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-88B1B528944B",
+        "name": "Fluconazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-EA982BE31AFE",
+    "canonical_name": "Ketocon",
+    "brand_name": "Ketocon",
+    "generic_name": "Ketoconazole (Shampoo)",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-623A6DFC9FA6",
+        "name": "Ketoconazole (Shampoo)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-AA3D99E94C88",
+    "canonical_name": "Ketoral",
+    "brand_name": "Ketoral",
+    "generic_name": "Ketoconazole (Tablet)",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D476CA3C2A3C",
+        "name": "Ketoconazole (Tablet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-5D82D97E4952",
+    "canonical_name": "Ketotab",
+    "brand_name": "Ketotab",
+    "generic_name": "Ketoconazole (Tablet)",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D476CA3C2A3C",
+        "name": "Ketoconazole (Tablet)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-D44565E344A0",
+    "canonical_name": "Ketozol",
+    "brand_name": "Ketozol",
+    "generic_name": "Ketoconazole (Shampoo)",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-623A6DFC9FA6",
+        "name": "Ketoconazole (Shampoo)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-5343FB8275D2",
+    "canonical_name": "Leptic",
+    "brand_name": "Leptic",
+    "generic_name": "Clonazepam",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-12A4EA2B5E10",
+        "name": "Clonazepam"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-613ECD309667",
+    "canonical_name": "Lucan-R",
+    "brand_name": "Lucan-R",
+    "generic_name": "Fluconazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-88B1B528944B",
+        "name": "Fluconazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-38F926B475F4",
+    "canonical_name": "Lumona",
+    "brand_name": "Lumona",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-82CEFB442514",
+    "canonical_name": "M-Kast",
+    "brand_name": "M-Kast",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-F86A26A7CF7E",
+    "canonical_name": "Maxima",
+    "brand_name": "Maxima",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-B38A7FA8A661",
+    "canonical_name": "Maxpro",
+    "brand_name": "Maxpro",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-0BC851D8E886",
+    "canonical_name": "Metro",
+    "brand_name": "Metro",
+    "generic_name": "Metronidazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-524A0B304071",
+        "name": "Metronidazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-BB0BCAD01D65",
+    "canonical_name": "Metsina",
+    "brand_name": "Metsina",
+    "generic_name": "Metronidazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-524A0B304071",
+        "name": "Metronidazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-6132E7FC2E69",
+    "canonical_name": "Monas",
+    "brand_name": "Monas",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-3F9EB06B9630",
+    "canonical_name": "Montair",
+    "brand_name": "Montair",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-DF7CBC751A5E",
+    "canonical_name": "Montene",
+    "brand_name": "Montene",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-5AAAAE9DB146",
+    "canonical_name": "Montex",
+    "brand_name": "Montex",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-AD1691ADA33B",
+    "canonical_name": "Napa",
+    "brand_name": "Napa",
+    "generic_name": "Paracetamol",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-54238E9415DF",
+        "name": "Paracetamol"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-C923B7BF9C89",
+    "canonical_name": "Napa Extend",
+    "brand_name": "Napa Extend",
+    "generic_name": "Paracetamol",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-54238E9415DF",
+        "name": "Paracetamol"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-C8EE6CF52727",
+    "canonical_name": "Nexcap",
+    "brand_name": "Nexcap",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-D57862BB9C36",
+    "canonical_name": "Nexum",
+    "brand_name": "Nexum",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-E371FCF2FBA9",
+    "canonical_name": "Nidazyl",
+    "brand_name": "Nidazyl",
+    "generic_name": "Metronidazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-524A0B304071",
+        "name": "Metronidazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-E210B9F1504D",
+    "canonical_name": "Nizoder",
+    "brand_name": "Nizoder",
+    "generic_name": "Ketoconazole (Cream)",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-5DD0D84E3605",
+        "name": "Ketoconazole (Cream)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-6C0689D6CF31",
+    "canonical_name": "Odmon",
+    "brand_name": "Odmon",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-AEE2D9364275",
+    "canonical_name": "Omastin",
+    "brand_name": "Omastin",
+    "generic_name": "Fluconazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-88B1B528944B",
+        "name": "Fluconazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-9ACF5210D4A9",
+    "canonical_name": "Opton",
+    "brand_name": "Opton",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-BB1DDC2A771A",
+    "canonical_name": "Progut",
+    "brand_name": "Progut",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-6DA4C2E1DC57",
+    "canonical_name": "Provair",
+    "brand_name": "Provair",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-A158AF261E0C",
+    "canonical_name": "Renova",
+    "brand_name": "Renova",
+    "generic_name": "Paracetamol",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-54238E9415DF",
+        "name": "Paracetamol"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-34F417ED08DE",
+    "canonical_name": "Rhinil",
+    "brand_name": "Rhinil",
+    "generic_name": "Cetirizine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-BF717C7A4DE0",
+        "name": "Cetirizine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-F29053AC1F52",
+    "canonical_name": "Ritch",
+    "brand_name": "Ritch",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-82379374BC75",
+    "canonical_name": "Rivotril",
+    "brand_name": "Rivotril",
+    "generic_name": "Clonazepam",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-12A4EA2B5E10",
+        "name": "Clonazepam"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-CFB5A996B08D",
+    "canonical_name": "Romycin",
+    "brand_name": "Romycin",
+    "generic_name": "Azithromycin Dihydrate (Ophthalmic)",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7947F4B17154",
+        "name": "Azithromycin Dihydrate (Ophthalmic)"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-E683DD7738D4",
+    "canonical_name": "Rozith",
+    "brand_name": "Rozith",
+    "generic_name": "Azithromycin Dihydrate",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-433F9145820F",
+        "name": "Azithromycin Dihydrate"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-A30F6F2CDD2E",
+    "canonical_name": "Sergel",
+    "brand_name": "Sergel",
+    "generic_name": "Esomeprazole",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-0EB962E9FB96",
+        "name": "Esomeprazole"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-02C18E04D5E7",
+    "canonical_name": "Tamen",
+    "brand_name": "Tamen",
+    "generic_name": "Paracetamol",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-54238E9415DF",
+        "name": "Paracetamol"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-663F6B9F6B94",
+    "canonical_name": "Telfast",
+    "brand_name": "Telfast",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-EB06D7F0846E",
+    "canonical_name": "Tridosil",
+    "brand_name": "Tridosil",
+    "generic_name": "Azithromycin Dihydrate",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-433F9145820F",
+        "name": "Azithromycin Dihydrate"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-C7B7CE552D7F",
+    "canonical_name": "Trilock",
+    "brand_name": "Trilock",
+    "generic_name": "Montelukast Sodium",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-7C8489A89594",
+        "name": "Montelukast Sodium"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-9CFAED24F8AE",
+    "canonical_name": "Vifas",
+    "brand_name": "Vifas",
+    "generic_name": "Fexofenadine Hydrochloride",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-D0F48F633C3C",
+        "name": "Fexofenadine Hydrochloride"
+      }
+    ],
+    "aliases": []
+  },
+  {
+    "medicine_id": "DATASET-BRAND-F57F9AEADAF3",
+    "canonical_name": "Zithrin",
+    "brand_name": "Zithrin",
+    "generic_name": "Azithromycin Dihydrate",
+    "catalog_status": "unknown",
+    "source_version": "project-labels-1",
+    "verification_status": "source_unverified",
+    "source": {
+      "source_id": "PROJECT-PRESCRIPTION-LABELS",
+      "name": "Doctor's Handwritten Prescription BD dataset labels",
+      "dataset_version": "project-labels-1",
+      "license": "Unknown; verify before redistribution",
+      "source_type": "handwritten_prescription_annotation",
+      "source_file": "data/raw/{train,val,test}/labels.csv",
+      "retrieved_on": "2026-10-22"
+    },
+    "ingredients": [
+      {
+        "ingredient_id": "DATASET-GENERIC-433F9145820F",
+        "name": "Azithromycin Dihydrate"
+      }
+    ],
+    "aliases": []
+  }
+]

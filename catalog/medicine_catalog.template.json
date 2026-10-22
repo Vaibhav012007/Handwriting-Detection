@@ -1,0 +1,10 @@
+[
+  {
+    "medicine_id": "STABLE-CATALOG-ID", "canonical_name": "Example 500 Tablet", "brand_name": "Example",
+    "manufacturer": "Optional verified manufacturer", "strength_value": 500, "strength_unit": "mg", "dosage_form": "tablet",
+    "route": "oral", "release": "immediate", "catalog_status": "active", "source_version": "2026-01",
+    "source": {"source_id":"SOURCE-ID", "name":"Verified catalog provider", "url":"https://provider.example", "dataset_version":"2026-01", "license":"Provider license"},
+    "ingredients":[{"ingredient_id":"INGREDIENT-ID", "name":"Ingredient name", "terminology_id":"Optional RxCUI"}],
+    "aliases":[{"text":"Verified alias", "alias_type":"brand", "verified":true, "source_id":"SOURCE-ID"}]
+  }
+]
